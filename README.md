@@ -1,1 +1,9 @@
-# referencia-git
+https://education.github.com/git-cheat-sheet-education.pdf
+https://github.com/AirtonFreitas/comandosGIT
+https://marketplace.visualstudio.com/items?itemName=ms-devlabs.conflicts-tab
+https://github.com/zricethezav/gitleaks
+https://www.conventionalcommits.org/en/v1.0.0/
+https://docs.microsoft.com/pt-br/devops/events-and-talks/
+https://resources.infosecinstitute.com/topic/security-best-practices-for-git-users
+https://git-scm.com/docs/gitignore
+http://rogerdudler.github.io/git-guide/index.pt_br.html
